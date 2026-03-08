@@ -1,20 +1,115 @@
- ## Welcome...
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=100&duration=2000&pause=500&color=00FF00&lines=WELCOME!;WILLKOMMEN!;BIENVENUE!;BEM-VINDO!;WELCOME!" />
+</h1>
 
-💻 **Developer**
+<!-- Rainbow Trenner -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
----
+<!-- KRASSER ANIMIERTER TECH-STACK -->
+<div align="center">
+  
+  # Languages
+  
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
+  
+  
+  
+</div>
 
-## Languages
+<div align="center">
 
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge\&logo=assemblyscript\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100" style="animation: pulse 2s ease-in-out infinite;" />
+      <br />
+      <strong>JS</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="100" height="100" style="animation: spin 4s linear infinite;" />
+      <br />
+      <strong>npm</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="100" height="100" style="animation: bounce 2s ease infinite;" />
+      <br />
+      <strong>V</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="100" height="100" style="animation: pulse 2.5s ease-in-out infinite;" />
+      <br />
+      <strong>X</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100" height="100" style="animation: spin 3s linear infinite reverse;" />
+      <br />
+      <strong>TS</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" height="100" style="animation: bounce 2.5s ease infinite;" />
+      <br />
+      <strong>php</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="100" height="100" style="animation: pulse 2s ease-in-out infinite;" />
+      <br />
+      <strong>NGINX</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="100" height="100" style="animation: spin 4s linear infinite;" />
+      <br />
+      <strong>Docker</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="100" height="100" style="animation: bounce 2s ease infinite;" />
+      <br />
+      <strong>A</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="100" height="100" style="animation: pulse 2.5s ease-in-out infinite;" />
+      <br />
+      <strong>B</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="100" height="100" style="animation: spin 3s linear infinite reverse;" />
+      <br />
+      <strong>C#</strong>
+    </td>
+    <td align="center">
+      <!-- Extra Platzhalter für zukünftige Icons -->
+      <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="80" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+<style>
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.2); filter: drop-shadow(0 0 20px #00ff00); }
+  100% { transform: scale(1); }
+}
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-25px); filter: drop-shadow(0 0 15px #ff00ff); }
+}
+</style>
+
+<!-- LIVE ANIMATION STATUS -->
+<div align="center">
+  
+  
+  
