@@ -3,21 +3,19 @@
 </p>
 
 <p align="center">
-<svg width="220" height="60">
-  <rect x="5" y="5" width="210" height="50"
-        rx="10"
+<svg width="320" height="90">
+  <rect x="5" y="5" width="310" height="80"
+        rx="15"
         fill="none"
         stroke="black"
-        stroke-width="3"
-        stroke-dasharray="15"
-        >
-    <animate attributeName="stroke-dashoffset"
-             values="0;100"
-             dur="3s"
-             repeatCount="indefinite"/>
-  </rect>
-  <text x="110" y="35" text-anchor="middle" font-size="18">
-  ## 💻 Developer
+        stroke-width="4"
+        stroke-dasharray="12"/>
+        
+  <text x="160" y="52"
+        text-anchor="middle"
+        font-size="32"
+        font-weight="bold">
+     💻 Developer
   </text>
 </svg>
 </p>
