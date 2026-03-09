@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=000000&lines=Welcome..." />
 </p>
 
-💻 **<img src="developer.gif" width="200">**
+<img src="developer.gif" width="200">
 
 ---
 
