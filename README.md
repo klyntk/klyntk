@@ -1,5 +1,5 @@
- ## <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=000000&lines=Welcome..." />
+## <p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=0000FF&lines=Welcome..." />
 </p>
 
 <p align="center">
