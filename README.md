@@ -8,7 +8,7 @@
 
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-line.svg" height="40" alt="assembly logo"/>
+  <img src="https://cdn.simpleicons.org/assemblyscript" height="40" alt="assembly logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
