@@ -2,7 +2,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=000000&lines=Welcome..." />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=200&height=40">
+<p align="center">
+<svg width="220" height="60">
+  <rect x="5" y="5" width="210" height="50"
+        rx="10"
+        fill="none"
+        stroke="black"
+        stroke-width="3"
+        stroke-dasharray="15"
+        >
+    <animate attributeName="stroke-dashoffset"
+             values="0;100"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </rect>
+  <text x="110" y="35" text-anchor="middle" font-size="18">
+    💻 Developer
+  </text>
+</svg>
+</p>
 
 ---
 
