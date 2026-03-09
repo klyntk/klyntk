@@ -15,7 +15,7 @@
         text-anchor="middle"
         font-size="32"
         font-weight="bold">
-     💻 Developer
+     💻 **Developer**
   </text>
 </svg>
 </p>
