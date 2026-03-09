@@ -8,7 +8,7 @@
 
 
 <div align="left">
-  <img src="images/asm.png" height="40" alt="assembly logo" />
+ <span style="font-size:28px; font-weight:bold;">assembly</span>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
