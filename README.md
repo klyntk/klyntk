@@ -1,3 +1,7 @@
+ ## <p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=000000&lines=Welcome..." />
+</p>
+
 <p align="center">
 <svg width="220" height="60">
   <rect x="5" y="5" width="210" height="50"
@@ -13,7 +17,7 @@
              repeatCount="indefinite"/>
   </rect>
   <text x="110" y="35" text-anchor="middle" font-size="18">
-    💻 Developer
+  ## 💻 Developer
   </text>
 </svg>
 </p>
